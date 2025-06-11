@@ -3,4 +3,4 @@ osaka
 kyoto
 fukuoka
 sendai
-hukushima
+fukushima
