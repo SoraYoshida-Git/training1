@@ -4,3 +4,4 @@ kyoto
 fukuoka
 sendai
 fukushima
+aomori
